@@ -1,9 +1,0 @@
-streamlit
-sentence-transformers
-faiss-cpu
-pypdf
-groq
-numpy
-pandas
-matplotlib
-scipy>=1.11
